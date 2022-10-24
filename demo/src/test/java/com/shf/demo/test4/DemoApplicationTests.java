@@ -1,4 +1,4 @@
-package com.shf.demo;
+package com.shf.demo.test4;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

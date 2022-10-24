@@ -1,4 +1,4 @@
-package com.shf.demo;
+package com.shf.demo.test4;
 
 public class Singleton {
     // 使⽤ volatile 可以禁⽌ JVM 的指令重排，保证在多线程环境下也能正常运⾏。

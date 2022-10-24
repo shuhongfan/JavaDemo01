@@ -1,4 +1,4 @@
-package com.shf.demo;
+package com.shf.demo.test4;
 
 public class Solution8 {
     public static void main(String[] args) {
